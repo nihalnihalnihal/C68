@@ -1,0 +1,78 @@
+.travel_mainDiv{
+    border: 1px solid-green;
+}
+
+.travel.mainDiv img{
+    width: 100%;
+}
+
+.travel_mainDiv h5, .travel.mainDiv p{
+    margin: 20px;
+}
+
+.movie_head{
+    font-size: 20px;
+    padding:    6px 20px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+}
+
+.movie_head i{
+    float: right;
+}
+
+.movie_text span{
+    color: linear-gradient(#00ffff 55%, #ffd700 45%);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#contact iframe
+{
+    width: 100%;
+}
